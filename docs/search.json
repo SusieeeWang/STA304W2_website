@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STA304W2 Quarto Website",
+    "section": "",
+    "text": "This is a Quarto website.\nHi, my name is Susie Wang. I’m a fourth year student at the University of Toronto, majoring Economics, minoring Statistics and Canadian Studies."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
